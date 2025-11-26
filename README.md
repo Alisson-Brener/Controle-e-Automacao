@@ -21,6 +21,9 @@ O projeto está organizado em pastas, cada uma correspondendo a um capítulo esp
 * **/Capitulo_04:** Resumo e Notebook interativo sobre Características de Sistemas de Controle com Realimentação.
 * **/Capitulo_05:** Resumo e Notebook interativo sobre O Desempenho de Sistemas de Controle com Realimentação.
 * **/Capitulo_06:** Resumo e Notebook interativo sobre A Estabilidade de Sistemas Lineares com Realimentação.
+* **/Capitulo_07:** Resumo e Notebook interativo sobre O Método do Lugar das Raízes.
+* **/Capitulo_10:** Resumo e Notebook interativo sobre O Projeto de Sistemas de Controle com Realimentação.
+* **/Capitulo_13:** Resumo e Notebook interativo sobre Sistemas de Controle Digital.
 
 Cada pasta de capítulo contém:
 1.  Um arquivo `.md` com o resumo teórico (opcional, para visualização rápida no GitHub).
